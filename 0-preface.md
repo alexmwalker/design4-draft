@@ -9,19 +9,26 @@ BY JASON BEAIRD
 
 
 
-##The Principles of Beautiful Web Design
+## The Principles of Beautiful Web Design
 ### by Jason Beaird and James George
 
-Copyright©2014 SitePoint Pty. Ltd.
+Copyright © 2014 SitePoint Pty. Ltd.
 
 **Product Manager**:  Simon Mackie 
+
 **Cover Design**: Alex Walker
+
 **Technical Editor**: Giovanni DiFeterici
+
 **Editor**: Paul Fitzpatrick
-Printing History :
-First Edition: January 2007
-Second Edition: November 2010
-Third Edition: June 2014
+
+**Printing History**:
+
+**First Edition**: January 2007
+
+**Second Edition**: November 2010
+
+**Third Edition**: June 2014
 
 #### Notice of Rights
 All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by
@@ -38,10 +45,11 @@ contained in this book, or by the software or hardware products described herein
 Rather than indicating every occurrence of a trademarked name as such, this book uses the names only in an editorial
 fashion and to the benefit of the trademark owner, with no intention of infringement of the trademark.
 
-Published by SitePoint Pty Ltd
-Web: http://www.sitepoint.com
-Email: business@sitepoint.com
-ISBN 978-0-9922794-4-
+#### Published by SitePoint Pty Ltd
+* Web: http://www.sitepoint.com
+* Email: business@sitepoint.com
+* ISBN 978-0-9922794-4-
+
 Printed and bound in the United States of America
 
 
