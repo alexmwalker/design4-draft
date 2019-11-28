@@ -1,21 +1,12 @@
----
-title: The Principles of Beautiful Web Design, 4th Edition
-description: Lavishly illustrated with detailed examples, The Principles of Beautiful Web Design is an easy-to-follow guide that will lead you through the process of creating great designs from start to finish. No prior web design experience is required.
-image: https://learnable-images.s3.amazonaws.com/books/c0ceb4cb-369e-413a-8669-c62af6261ec0.png
-authors: Jason Beaird & James George
----
-
 # Chapter 1: Layout and Composition
 
 ### Jason Beaird & James George
-
-[TOC] 
 
 
 For many web developers, myself included, the most intimidating part of the design process is getting started. Imagine for a moment that you’re sitting at your desk with nothing other than a cup of coffee and the business card of a potential client who needs a basic corporate website. Usually, a business card speaks volumes about a company’s identity, and can be used as design inspiration.
 
 
-Unfortunately, that’s not the case with the card for Smith’s Services in Figure 1.1. It’s black and white, all text, no character—blah. Talk about a blank canvas! So, where do you go from here? You need a plan… and you need to contact Mr. Smith. With some critical input from the client about what his company actually does, and by gathering information about the content you have to work with, you’ll be able to come up with a successful design.
+Unfortunately, that’s not the case with the card for Smith’s Services in *Figure 1.1*. It’s black and white, all text, no character—blah. Talk about a blank canvas! So, where do you go from here? You need a plan… and you need to contact Mr. Smith. With some critical input from the client about what his company actually does, and by gathering information about the content you have to work with, you’ll be able to come up with a successful design.
 
  
 ![A bland client business card](https://learnable-static.s3.amazonaws.com/premium/reeedr/books/the-principles-of-beautiful-web-design-3rd-edition/images/000042.jpg "Figure 1.1. A bland client business card")
@@ -102,11 +93,11 @@ Sometimes I start off with more questions than those listed here. Use your imagi
 
  
 
-The next stage of the design process is to take the information you’ve learned from the client back to your laboratory for analysis, dissection, and experimentation. You want to develop a firm grasp on all the information, products, and services they have to offer, and play around with how these could be arranged. Put yourself in the shoes of the website visitors and ask yourself what these people are looking for. If you’re thinking about buying a product, what do you need to know before you buy? If you’re signing up for a service, where would you learn about the different offerings and which level of service you need? What is the clearest title possible for page_x_, and how many steps does it take to reach page_y_?
+The next stage of the design process is to take the information you’ve learned from the client back to your laboratory for analysis, dissection, and experimentation. You want to develop a firm grasp on all the information, products, and services they have to offer, and play around with how these could be arranged. Put yourself in the shoes of the website visitors and ask yourself what these people are looking for. If you’re thinking about buying a product, what do you need to know before you buy? If you’re signing up for a service, where would you learn about the different offerings and which level of service you need? What is the clearest title possible for page _x_, and how many steps does it take to reach page _y_?
 
  
 
-In the world of web design, this is the beginning of a process known as**information architecture**, or IA for short. For expansive websites and complex web applications, information architecture is a career in
+In the world of web design, this is the beginning of a process known as **information architecture**, or IA for short. For expansive websites and complex web applications, information architecture is a career in
 itself, but the guiding principles of this field can provide a solid foundation for even the smallest websites. For the exploration stage of our process, we want to focus on organizing the content and flow of the website into a structure we can design around.
 
  
@@ -150,7 +141,7 @@ Users are pleased by the design but drawn to the content
 
 :   One of the biggest concerns among usability professionals is the time it takes users to scan the page for the information they want, be it a piece of content, a link to another page, or a form field. The design should not be a hindrance; it should act as a conduit between the user and the information. 
 
-    [Harmony Republic](http://www.harmonyrepublic.com/) (pictured in Figure 1.2) is a great example of a design that’s both beautiful and usable. The richly textured, colorful illustrations flow around the structure of the page, which is embellished with hand-drawn navigation and a simple layout. The abundance of handcrafted, organic elements creates contrast and helps to draw your eyes to the featured artists without interfering with the pages’ readability or how it’s organized.
+    [Harmony Republic](http://www.harmonyrepublic.com/) (pictured in *Figure 1.2*) is a great example of a design that’s both beautiful and usable. The richly textured, colorful illustrations flow around the structure of the page, which is embellished with hand-drawn navigation and a simple layout. The abundance of handcrafted, organic elements creates contrast and helps to draw your eyes to the featured artists without interfering with the pages’ readability or how it’s organized.
 
 ![Harmony Republic](https://learnable-static.s3.amazonaws.com/premium/reeedr/books/the-principles-of-beautiful-web-design-3rd-edition/images/000105.jpg)
 
@@ -183,7 +174,7 @@ Users recognize each page as belonging to the site
 
  
 
-Even from a non-designer’s standpoint, defining a design that satisfies all the requirements I outlined above is a simple task. It’s similar to making a phrase on your refrigerator with magnetic poetry words. Although there are millions of ways to arrange the words, only a few arrangements make any sense. The magnetic words are like the components, or blocks, of the web page. Although the number of these necessary blocks depends on the size and subject of the site, most websites have the components seen in Figure 1.5.
+Even from a non-designer’s standpoint, defining a design that satisfies all the requirements I outlined above is a simple task. It’s similar to making a phrase on your refrigerator with magnetic poetry words. Although there are millions of ways to arrange the words, only a few arrangements make any sense. The magnetic words are like the components, or blocks, of the web page. Although the number of these necessary blocks depends on the size and subject of the site, most websites have the components seen in *Figure 1.5*.
 
  
 
@@ -205,7 +196,7 @@ Containing block
 
 Logo
 
-:    When designers refer to an identity, they’re referring to the logo and colors that exist across a company’s various forms of marketing, such as business cards, letterhead, brochures, and so on.<sup>[2]</sup>The identity block that appears on the website should contain the company’s logo or name, and sit at the top of each page of the website. The identity block increases brand recognition while informing users that the pages they’re viewing are part of a single site.
+:    When designers refer to an identity, they’re referring to the logo and colors that exist across a company’s various forms of marketing, such as business cards, letterhead, brochures, and so on.<sup>[2]</sup> The identity block that appears on the website should contain the company’s logo or name, and sit at the top of each page of the website. The identity block increases brand recognition while informing users that the pages they’re viewing are part of a single site.
 
 Navigation
 
